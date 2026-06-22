@@ -1,6 +1,7 @@
 ---
 title: "Effectiveness of Max-Pooling for Fine-Tuning CLIP on Videos"
 collection: publications
+category: conferences
 permalink: /publication/2025-max-pool
 excerpt: 'Researches token max-pooling strategies for adapting image-text models to video understanding tasks, achieving state-of-the-art on Something-Something V2 tasks and competitive performance across action recognition benchmarks.'
 date: 2025-06-01
