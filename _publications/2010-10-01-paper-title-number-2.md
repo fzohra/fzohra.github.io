@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Effectiveness of Max-Pooling for Fine-Tuning CLIP on Videos"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Researches token max-pooling strategies for adapting image-text models to video understanding tasks, achieving state-of-the-art on Something-Something V2 tasks and competitive performance across action recognition benchmarks.'
+date: 2025-06-01
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
+citation: 'F. Zohra, C. Zhao, S. Liu, B. Ghanem. (2025). "Effectiveness of Max-Pooling for Fine-Tuning CLIP on Videos." CVPR Workshops.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Researches token max-pooling strategies for adapting image-text models to video understanding tasks. Achieved state-of-the-art on Something-Something V2 and competitive performance across action recognition benchmarks. 
+
+[Link to Paper]([https://arxiv.org/abs/YOUR-LINK-HERE](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/papers/Zohra_Effectiveness_of_Max-Pooling_for_Fine-Tuning_CLIP_on_Videos_CVPRW_2025_paper.pdf))
