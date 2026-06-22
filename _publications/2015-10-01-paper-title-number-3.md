@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-opentad
+excerpt: 'Contributed to a unified framework consolidating 16 TAD methods and 9 datasets into a modular PyTorch codebase. The framework achieved 1st place in the EPIC-KITCHENS-100 2024 and Ego4D 2024 challenges.'
+date: 2025-06-01
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2025W/PVUW/papers/Liu_OpenTAD_A_Unified_Framework_and_Comprehensive_Study_of_Temporal_Action_CVPRW_2025_paper.pdf'
+citation: 'S. Liu*, C. Zhao*, F. Zohra, M. Soldan, A. Pardo, M. Xu, L. Alssum, M. Ramazanova, J. L. Alcázar, A. Cioppa, S. Giancola, C. Hinojosa, B. Ghanem. (2025). "OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection." CVPR Workshops.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[cite_start]Contributed to a unified framework consolidating 16 TAD methods and 9 datasets into a modular PyTorch codebase[cite: 41]. [cite_start]The framework enables fair comparison and achieved 1st place in EPIC-KITCHENS-100 2024 and Ego4D 2024 challenges[cite: 42].
+
+[Link to Code Repository]([https://github.com/YOUR-LINK-HERE](https://github.com/sming256/OpenTAD))
