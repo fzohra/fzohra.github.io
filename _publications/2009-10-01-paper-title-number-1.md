@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "B-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-b-clip
+excerpt: 'Developed a contrastive learning framework achieving hierarchical alignment between textual granularities and corresponding visual regions, achieving state-of-the-art on FG-OVD and long-text retrieval benchmarks.'
+date: 2026-06-01
+venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+paperurl: 'https://arxiv.org/abs/YOUR-LINK-HERE'
+citation: 'F. Zohra, C. Zhao, H. Itani, B. Ghanem. (2026). "B-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment." CVPR.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Here you can add a more detailed abstract, describe the $\mathcal{B}$-Contextualized Contrastive Alignment Loss (B-CAL) in depth, or embed your supplementary video. 
+
+[Link to Code Repository](https://github.com/fzohra/B-CLIP)
