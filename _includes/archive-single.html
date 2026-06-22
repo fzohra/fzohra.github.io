@@ -14,15 +14,9 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="overflow: auto;">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
+    {% if teaser %}
+      <div class="archive__item-teaser" style="float: left; width: 220px; margin-right: 25px; margin-bottom: 15px;">
+        <img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | prepend: "/images/" | prepend: base_path }}"{% endif %} alt="" style="width: 100%; border-radius: 5px; border: 1px solid #ddd;">
       </div>
     {% endif %}
 
