@@ -13,4 +13,8 @@ I research Deep Learning in Computer Vision, primarily on Video Understanding, L
 
 Prior to my doctoral studies, I completed my undergrad in Computer Science at The University of Texas at Austin and worked as a Computer Scientist at Adobe in Seattle.
 
-Here are my recent [publications](/publications/).
+## Recent Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
