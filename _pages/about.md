@@ -18,3 +18,4 @@ Prior to my doctoral studies, I completed my undergrad in Computer Science at Th
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
