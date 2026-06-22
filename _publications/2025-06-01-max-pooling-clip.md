@@ -11,4 +11,4 @@ citation: 'F. Zohra, C. Zhao, S. Liu, B. Ghanem. (2025). "Effectiveness of Max-P
 
 Researches token max-pooling strategies for adapting image-text models to video understanding tasks. Achieved state-of-the-art on Something-Something V2 and competitive performance across action recognition benchmarks. 
 
-[Link to Paper]([https://arxiv.org/abs/YOUR-LINK-HERE](https://openaccess.thecvf.com/content/CVPR2025W/eLVM/papers/Zohra_Effectiveness_of_Max-Pooling_for_Fine-Tuning_CLIP_on_Videos_CVPRW_2025_paper.pdf))
+[Link to Paper]([https://openaccess.thecvf.com/content/CVPR2025W/eLVM/papers/Zohra_Effectiveness_of_Max-Pooling_for_Fine-Tuning_CLIP_on_Videos_CVPRW_2025_paper.pdf])
