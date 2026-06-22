@@ -9,6 +9,7 @@ paperurl: 'https://openaccess.thecvf.com/content/CVPR2025W/PVUW/papers/Liu_OpenT
 citation: 'S. Liu*, C. Zhao*, F. Zohra, M. Soldan, A. Pardo, M. Xu, L. Alssum, M. Ramazanova, J. L. Alcázar, A. Cioppa, S. Giancola, C. Hinojosa, B. Ghanem. (2025). "OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection." CVPR Workshops.'
 ---
 
-[cite_start]Contributed to a unified framework consolidating 16 TAD methods and 9 datasets into a modular PyTorch codebase[cite: 41]. [cite_start]The framework enables fair comparison and achieved 1st place in EPIC-KITCHENS-100 2024 and Ego4D 2024 challenges[cite: 42].
+Contributed to a unified framework consolidating 16 TAD methods and 9 datasets into a modular PyTorch codebase. 
+The framework enables fair comparison and achieved 1st place in EPIC-KITCHENS-100 2024 and Ego4D 2024 challenges.
 
 [Link to Code Repository]([https://github.com/YOUR-LINK-HERE](https://github.com/sming256/OpenTAD))
