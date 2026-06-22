@@ -15,8 +15,6 @@ Prior to my doctoral studies, I completed my undergrad in Computer Science at Th
 
 ## Recent Publications
 
-<div class="grid__wrapper">
-  {% for post in site.publications reversed %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
