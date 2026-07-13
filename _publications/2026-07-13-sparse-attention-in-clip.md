@@ -1,10 +1,9 @@
-
 ---
 title: "Sparse Attention for Dense Open-Vocabulary Prediciton in CLIP"
 collection: publications
 category: conferences
-permalink: /publication/2026-sparse-attn-clip
-excerpt: 'Analyzes the effect of sparse visual attention in the upper layers of CLIP for localization.'
+permalink: /publication/2026-07-13-sparse-attention-in-clip.md
+excerpt: 'Analyzes an inference-time substitution of the row-wise softmax in the final visual self-attention layers with the α-entmax transform, applied across both the standard query–key attention and self-correlation variants.'
 date: 2026-06-09
 header:
   teaser: "sparse-attention-clip-thumb.png"
