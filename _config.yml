@@ -23,7 +23,7 @@ repository               : "fzohra/fzohra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6594.jpg"
+  avatar           : "IMG_6594.JPG"
   name             : "Zohra"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Computer Science researching Deep Learning for Computer Vision, primarily Large Vision-Language Models and Visual Representation Learning."
