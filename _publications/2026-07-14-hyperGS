@@ -2,7 +2,7 @@
 title: "HyperGS: Fast and Generalizable Gaussian Video Representation"
 collection: publications
 category: conferences
-permalink: /publication/2026-hyperGS.md
+permalink: /publication/2026-hyperGS
 excerpt: 'HyperGS is a feedforward, optimizationfree approach that directly predicts Gaussian representations from any video in a single
 forward pass, speeding up encoding and decoding by orders of magnitude while generalizing to out-of-distribution videos at higher resolutions.'
 date: 2026-07-14
