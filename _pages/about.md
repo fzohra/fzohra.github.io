@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in Computer Science at the King Abdullah University of Science and Technology (KAUST), where I am advised by Prof. Bernard Ghanem and Prof. Chen Zhao in the Image and Video Understanding Lab [IVUL](https://ivul.kaust.edu.sa/).
+I am a Ph.D. Student in Computer Science at the King Abdullah University of Science and Technology (KAUST), where I am advised by [Prof. Bernard Ghanem](https://www.bernardghanem.com/) and [Prof. Chen Zhao](https://zhao-chen.com/) in the Image and Video Understanding Lab [IVUL](https://ivul.kaust.edu.sa/).
 
 I research Deep Learning in Computer Vision, primarily on Video Understanding, Large Vision-Language Models, Vision-Text Alignment, and Temporal Action Detection.
 
