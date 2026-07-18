@@ -14,7 +14,8 @@ I research Deep Learning in Computer Vision, primarily on Video Understanding, L
 Prior to my doctoral studies, I completed my undergrad in Computer Science at The University of Texas at Austin and worked as a Computer Scientist at Adobe in Seattle.
 
 ## Events 2026
-* August 1 - November 30: Visiting Researcher at [HITSZ](http://global.hitsz.edu.cn/index_en.htm), Shenzen, China.
+* August 31 - September 11: Will be attending [MLSS-2026](https://mlss2026.is.tuebingen.mpg.de/), Tübingen, Germany!
+* August 1 - November 30: Visiting Researcher at [HITSZ](http://global.hitsz.edu.cn/index_en.htm), Shenzen, China!
 * February 9-11 : Poster at [RSAI](https://www.kaust.edu.sa/events/rsais26/) Symposium, KAUST.
 
 ## Recent Publications
